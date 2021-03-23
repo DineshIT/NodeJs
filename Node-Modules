@@ -1,0 +1,22 @@
+Node Modules is a simple or complex functionality organized in single or multiple Javascript files which can be used throughout the Node Js application.
+
+There are three types of Modules in Node:
+
+    1. Core Modules
+    2. Local File Modules
+    3. External/ Third party Modules
+
+    Core Modules:
+    Node.js is a light weight framework. The core modules include bare minimum functionalities of Node.js.
+    However, you need to import the core module first in order to use it in your application. 
+
+    Local File Modules:
+    Local Modules are the modules that are created locally in NodeJs application.
+    These modules includes different functionalities of your application in separate files and folders.
+    These modules could be reused throughout the application by importing.
+
+    External/ Third-Party Modules:
+    
+    The 3rd party modules can be downloaded using NPM (Node Package Manager).
+    3rd party modules can be install inside the project folder or globally.
+
