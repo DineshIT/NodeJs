@@ -1,2 +1,2 @@
 # NodeJs
-Node Js Repo will provide us the different streams of platform to get the proper understanding
+Node Js Repo will provide us the different functional ideas and patterns of the Node platform.
