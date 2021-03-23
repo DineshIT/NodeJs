@@ -6,7 +6,7 @@
   "scripts": {
     "test": "No test module has been added to the app",
     "start": "node app"
-    },
+  },
   "keywords": [
     "Node",
     "starter",
