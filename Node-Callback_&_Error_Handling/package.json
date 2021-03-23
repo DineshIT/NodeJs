@@ -1,0 +1,19 @@
+{
+  "name": "node_callback_and_error_handling",
+  "version": "1.0.0",
+  "description": "Node Callback concepts and Error Handling example. ",
+  "main": "app.js",
+  "scripts": {
+    "test": "\"No test set is attached in the app\"",
+    "start": "node app"
+  },
+  "keywords": [
+    "\"callback\"",
+    "\"error",
+    "handling\"",
+    "\"Node\"",
+    "\"JS\""
+  ],
+  "author": "Dineshkumar Balan",
+  "license": "MIT"
+}
