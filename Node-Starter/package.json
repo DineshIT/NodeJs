@@ -1,0 +1,19 @@
+{
+  "name": "node-starter",
+  "version": "1.0.0",
+  "description": "A Node starter is just an intro app with File Node Module explains the basics of simple app structure.",
+  "main": "app.js",
+  "scripts": {
+    "test": "No test module has been added to the app",
+    "start": "node app"
+    },
+  "keywords": [
+    "Node",
+    "starter",
+    "simple",
+    "Node",
+    "app"
+  ],
+  "author": "Dineshkumar Balan",
+  "license": "MIT"
+}
